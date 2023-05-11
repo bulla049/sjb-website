@@ -1,56 +1,54 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include science learning and instruction, culturally responsive pedagogy, argumentation, and computational linguistics.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-first_name: Alice
-highlight_name: true
+  - course: PhD in Psychological Foundations of Education
+    institution: University of Minnesota
+    year: Expected 2025
+  - course: BA in Developmental Psychology
+    institution: University of Minnesota
+    year: 2019
+email: bulla049@umn.edu
+first_name: Sam
+highlight_name: no
 interests:
-- Artificial Intelligence
+- Science Learning and Teaching
+- Argumentative Discourse
 - Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Culturally Responsive Pedagogy
+last_name: Bullard
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Department of Educational Psychology, University of Minnesota
+  url: https://www.cehd.umn.edu/edpsych/
+role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:bulla049@umn.edu
 - display:
     header: true
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/SamBullard049
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=Bhwb7uIAAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4905-9305 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/sam-bullard-0a09b0136/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
-status:
-  icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Samuel J. Bullard
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Greetings! My name is Sam Bullard and I am a Ph.D. student in the Department of Educational Psychology at the University of Minnesota.
+
+My research interests include science learning & instruction, culturally responsive pedagogy, argumentation, and natural language processing techniques.
+
+On this website, you’ll find information regarding my education and research experience, including current/past research projects, scholarly publications, and more.

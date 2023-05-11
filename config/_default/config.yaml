@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Samuel J. Bullard # Website name
-baseURL: '/' # Website URL
+baseURL: 'http://sam-bullard.netlify.app' # Website URL
 
 ############################
 ## LANGUAGE
