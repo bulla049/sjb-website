@@ -1,11 +1,11 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: https://example.org
+date: Sys.Date()
+external_link: https://www.atp-bio.org/
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Graphic by University of Minnesota
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: NSF Grant No. EEC 1941543
 tags:
 - Demo
-title: External Project
+title: Advanced Technologies for the Preservation of Biological Systems (ATP-Bio)
 ---

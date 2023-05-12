@@ -1,19 +1,18 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: ""
+external_link: "https://www.atp-bio.org/"
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: University of Minnesota
   focal_point: Smart
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
+  url: https://twitter.com/atp_bio
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
-title: Example Project
+title: Advanced Technologies for the Preservation of Biological Systems (ATP-Bio)
 url_code: ""
 url_pdf: ""
 url_slides: ""
